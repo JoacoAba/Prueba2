@@ -1,4 +1,4 @@
-# Proyecto "Nombre Ejemplo"
+# Prueba de uso de GitHub
 
 Team:
     - Aballay Joaquin
